@@ -1,2 +1,2 @@
 #!/bin/bash
-sort input.txt | uniq -u | grep -F -w -f - input.txt
+sort | uniq -u
