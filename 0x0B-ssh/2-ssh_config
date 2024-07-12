@@ -1,0 +1,5 @@
+#config for server authintaction
+Host 54.237.216.64
+    IdentityFile ~/.ssh/school
+    PreferredAuthentications publickey
+    PasswordAuthentication no
