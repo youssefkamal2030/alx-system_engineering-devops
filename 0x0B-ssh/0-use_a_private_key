@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
+#connects to server with the following username and IP
 ssh ubuntu@54.237.216.64
